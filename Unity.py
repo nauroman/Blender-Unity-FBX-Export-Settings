@@ -1,7 +1,6 @@
 import bpy
 op = bpy.context.active_operator
 
-op.filepath = 'C:\\Users\\user\\Documents\\Unity\\Picturethis3d\\Products\\ExtrasForKids\\Assets\\PictureThis3d\\ExtrasForKids\\Autopista\\Autopista_.fbx'
 op.use_selection = False
 op.use_visible = True
 op.use_active_collection = False
